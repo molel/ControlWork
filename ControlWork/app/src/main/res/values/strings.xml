@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Control work</string>
+    <string name="heading">Переутомление (ортостатическая проба)</string>
+    <string name="description">Для прохождения теста необходимо иметь возможность лечь на 5 минут. Время проведения теста около 10–15 минут.</string>
+    <string name="test">Тест</string>
+    <string name="birthday">День вашего рождения:</string>
+    <string name="sex">Пол:</string>
+    <string name="step_1">1. Необходимо лечь и лежать 5 минут почти без движений</string>
+    <string name="step_2">2. Посчитать пульс в течение минуты</string>
+    <string name="step_3">3. Введите пульс в положении лежа</string>
+    <string name="step_4">4. Встать и стоять почти без движений 5 минут</string>
+    <string name="step_5">5. Посчитать пульс в течение минуты</string>
+    <string name="step_6">6. Введите пульс в положении стоя</string>
+    <string name="step_7">7. Нажмите \'Ввод\'. Тест завершен</string>
+    <string name="clock_face_description">Просто намек на необходимость секундомера во время прохождения пробы</string>
+    <string name="important_information">Важная информация для прохождения пробы</string>
+    <string name="complete">Завершить</string>
+    <string name="state">Ваше состояние</string>
+    <string name="results">Результаты теста</string>
+    <string name="error_results">Введенные вами значения некорректны. Попробуйте снова.</string>
+    <string name="bad_results">Внимание! Введенные вами значения соотвествуют высокому уровню переутомления. Рекомендуется немедленно снизить нагрузки и при необходимости обратиться к врачу.</string>
+    <string name="medium_results">Введенные вами значения соотвествуют среднему уровню переутомления. Рекомендуется снизить нагрузку в ближайшее время.</string>
+    <string name="good_results">Введенные вами значения соотвествуют остутствию переутомления. Вы в полном порядке.</string>
+    <string name="set_date">Выбрать дату</string>
+</resources>

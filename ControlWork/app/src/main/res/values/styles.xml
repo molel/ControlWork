@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="heading">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="main_heading" parent="heading">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text">
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="spinner" parent="@android:style/Widget.Spinner">
+        <item name="android:layout_height">25dp</item>
+    </style>
+
+    <style name="spinner_correct" parent="spinner">
+        <item name="android:background">@drawable/circle_corners_correct</item>
+    </style>
+
+    <style name="spinner_incorrect" parent="spinner">
+        <item name="android:background">@drawable/circle_corners_incorrect</item>
+    </style>
+
+
+    <style name="complete_button" parent="Widget.AppCompat.Button">
+        <item name="background">@drawable/gradient_green_to_cyan</item>
+    </style>
+</resources>
